@@ -1,0 +1,35 @@
+1.
+store mass with any value
+store acceleration with any value
+store force with no value (we then will calculate the total force from the input of mass and acceleration)
+calculate "mass" times "acceleration"
+SET "force" value with the result of the calculation
+
+DISPLAY "force"
+
+2. 
+store "year" with any value
+if "year" mod 4 is equal 0 and "year" mod 100 is not equal 0
+DISPLAY "leap year"
+else if "year" mod 4 is equal 0 and "year" mod 100 is equal 0 and "year" mod 400 is equal zero
+DISPLAY "leap year"
+else 
+DISPLAY "leap year"
+
+3.
+STORE "number_of_clothes" with 0
+WHILE "number_of_clothes" < 20
+ADD "number_of_clothes" by 1
+
+DISPLAY "Machine is ON"
+
+4. 
+STORE "student_order" with 0
+WHILE "student order" < 40
+ADD "student_order" by 1
+STORE "student" with student_name
+IF "student" is "nail_trimmed"
+DISPLAY "WELL DONE!!!"
+ELSE
+DISPLAY "TRIM YOUR FINGER NAILS!!!!!!"
+
